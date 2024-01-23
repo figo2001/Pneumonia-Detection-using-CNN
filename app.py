@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import numpy as np
 import pandas as pd
-from opencv import cv2
+import cv2
 
 from PIL import Image
 from sklearn.model_selection import train_test_split
