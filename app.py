@@ -3,6 +3,7 @@ import os
 import numpy as np
 import pandas as pd
 import cv2
+from cv2 import __version__
 from PIL import Image
 from sklearn.model_selection import train_test_split
 import tensorflow as tf
