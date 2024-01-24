@@ -6,7 +6,7 @@ import numpy as np
 #import matplotlib.image as mpimg
 import cv2
 from PIL import Image
-#from sklearn.model_selection import train_test_split
+
 import tensorflow as tf
 from tensorflow import keras
 
