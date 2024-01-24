@@ -1,11 +1,12 @@
 import streamlit as st
-import os
+#import os
 import numpy as np
-import pandas as pd
+#import pandas as pd
+#import matplotlib.pyplot as plt
+#import matplotlib.image as mpimg
 import cv2
-
 from PIL import Image
-from sklearn.model_selection import train_test_split
+#from sklearn.model_selection import train_test_split
 import tensorflow as tf
 from tensorflow import keras
 
