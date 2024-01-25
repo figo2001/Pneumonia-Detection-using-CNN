@@ -20,35 +20,35 @@ The dataset consists of medical chest X-ray images categorized into two classes:
 
 Make sure to have the following dependencies installed:
 
-\`\`\`bash
+```bash
 pip install tensorflow matplotlib
-\`\`\`
+```
 
 ## Usage
 
 1. Clone the repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/pneumonia-detection-cnn.git
-\`\`\`
+```
 
 2. Navigate to the project directory:
 
-\`\`\`bash
+```bash
 cd pneumonia-detection-cnn
-\`\`\`
+```
 
 3. Run the Jupyter notebook or Python script:
 
-\`\`\`bash
+```bash
 jupyter notebook pneumonia_detection.ipynb
-\`\`\`
+```
 
 or
 
-\`\`\`bash
+```bash
 python pneumonia_detection.py
-\`\`\`
+```
 
 4. Follow the instructions in the notebook or script to train and test the CNN model.
 
