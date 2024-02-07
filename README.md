@@ -2,6 +2,7 @@
 
 This project focuses on pneumonia detection using a Convolutional Neural Network (CNN) implemented from scratch. The CNN is trained on a dataset of medical chest X-ray images for accurate and early diagnosis of pneumonia.
 
+
 ## Project Overview
 
 - **Objective:** Implement a CNN for pneumonia detection using medical chest X-ray images.
@@ -63,3 +64,7 @@ This project is motivated by the importance of leveraging CNNs for medical image
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details." > README.md
+
+## Demo
+
+[streamlit-app-2024-02-07-13-02-03.webm](https://github.com/figo2001/Pneumonia-Detection-using-CNN/assets/78696850/f53fe2d8-2ca1-4ce8-8ade-fdccd658ab3a)
